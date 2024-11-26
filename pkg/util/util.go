@@ -1,5 +1,5 @@
 package util
 
 const (
-	Output = "go-test"
+	Output = "go-test.v2"
 )
