@@ -1,5 +1,5 @@
 package util
 
 const (
-	Output = "vim-go"
+	Output = "go-test"
 )
